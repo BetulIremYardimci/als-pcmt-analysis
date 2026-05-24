@@ -1,0 +1,6 @@
+.RData
+.Rhistory
+data/
+*.rds
+*.RDS
+old_files/
