@@ -3,4 +3,4 @@
 data/
 *.rds
 *.RDS
-old_files/
+old_files/.RDataTmp
